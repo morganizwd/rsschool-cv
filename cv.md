@@ -31,7 +31,9 @@ ___
 
 Previously participated in the course from Epam (AutoCode -  .net)
 ___
-> ### English level: B2 (according to Epam english test)
+> ### English level: B1 (according to Epam english test)
+___
+![English level](https://sun9-71.userapi.com/impg/tR5bYCymFag4CmYkuDCjJ2KQCLIm3dXaiWkJkg/7kMKe7Bjp60.jpg?size=583x148&quality=96&sign=624c4c8e7ee56d0f8fab1e1ea57db3f2&type=album)
 ___
 > ### Solved CodeWars katas (Code examples)
 * Write a function that accepts an integer n and a string s as parameters, and returns a string of s repeated exactly n times.
